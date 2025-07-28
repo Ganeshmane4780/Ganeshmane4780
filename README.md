@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshmane4780&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshmane4780" /> </p>
 
-- 🌱 I’m currently learning **java,sql & other tools**
+- 🌱 I’m currently learning **java,sql & other advance concepts and tools**
 
-- 👯 I’m looking to collaborate on **frontend projects with react**
+- 👯 I’m looking to collaborate on **frontend projects and full stack projects**
 
-- 🤝 I’m looking for help with **frontend projects**
+- 🤝 I’m looking for help with **frontend projects and full stsck projects**
 
 - 📫 How to reach me **ganeshmane4780@gmail.com**
 
