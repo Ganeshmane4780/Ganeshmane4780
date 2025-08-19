@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Mane</h1> 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+MERN+Stack+Enthusiast;Clean+Code+Advocate;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Front+End+Developer;Clean+Code+Advocate;Always+Learning..." alt="Typing SVG" />
 </p>
 
 ---
@@ -67,11 +67,11 @@
 ---
 
 ### 🚀 Featured Projects
--  [PortFolio](https://github.com/Ganeshmane4780/Personal_Portfolio-Ganesh) – Personal Portfolio showcasing my projects, skills, and resume with smooth navigation, interactive UI, and modern responsive design. → [Live Demo](https://personal-portfolio-ganesh-o389.vercel.app)
+- 💼 [PortFolio](https://github.com/Ganeshmane4780/Personal_Portfolio-Ganesh) – Personal Portfolio showcasing my projects, skills, and resume with smooth navigation, interactive UI, and modern responsive design. → [Live Demo](https://personal-portfolio-ganesh-o389.vercel.app)
 -  [Student Management System](https://github.com/Ganeshmane4780/Student_Management_System) – A full-stack web application built using Java Spring Boot, Thymeleaf, and MySQL, designed to manage student records efficiently. This project supports CRUD operations via both web interface and RESTful APIs.
 -  [Language Translator](https://github.com/Ganeshmane4780/Language-Translator) – This project is a real-time language translator built using HTML, CSS, and JavaScript. It allows users to easily translate text between different languages using the MyMemory Translation API. 
 -  [Employee Management System](https://github.com/Ganeshmane4780/Ems_system-React-Spring-Boot) – A full-stack Employee Management System built with React on the frontend and Spring Boot on the backend. This project allows you to perform CRUD operations (Create, Read, Update, Delete) on employee data using Restfull API's.
--   [To-Do List](https://github.com/Ganeshmane4780/To-Do-List) – This project is a simple and intuitive To-Do List application built using HTML, CSS, and JavaScript. It allows users to add, complete, and remove tasks, helping them manage their daily activities efficiently.
+- ✅ [To-Do List](https://github.com/Ganeshmane4780/To-Do-List) – This project is a simple and intuitive To-Do List application built using HTML, CSS, and JavaScript. It allows users to add, complete, and remove tasks, helping them manage their daily activities efficiently.
 
 ---
 
@@ -89,7 +89,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganeshmane4780&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" width="420" height="170"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshmane4780&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="420" height="170"/>
 </p>
 
